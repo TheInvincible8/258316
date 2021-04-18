@@ -9,3 +9,23 @@ print(12/3)
 #Write a program to calculate and output the total number of ice cream scoops we need.
 #Solution
 print(23*2+27*2+18*2)
+
+#Float
+print(2/3)
+print(4.1+2)
+print(3+2+1+5.0)
+
+#Exponentiation
+print(2**3)
+print(9**(1/3))
+print( 8 ** (1/3) )
+
+#Quotient
+#loor division is done using two forward slashes and is used to determine the quotient of a division (the quantity produced by the division of two numbers).
+print(20//6)
+print( 10//4 )
+
+#Remainder
+print(20%6)
+print(1.25%0.5)
+print( 7%(5 // 2) )
